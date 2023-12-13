@@ -6,3 +6,7 @@ Build command:
 Custom setup injection script should be named `additional.sh` and should be strictly unattended.
 
 Output fit images will be stored in `wirenboard/output/images`.
+
+Requirements:
+* Docker
+* 15 GB of disk space
