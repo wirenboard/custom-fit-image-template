@@ -9,4 +9,5 @@ Output fit images will be stored in `wirenboard/output/images`.
 
 Requirements:
 * Docker
+* `apt install qemu-user-static binfmt-support`
 * 15 GB of disk space
