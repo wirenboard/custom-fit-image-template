@@ -7,7 +7,8 @@ Custom setup injection script should be named `additional.sh` and should be stri
 
 Output fit images will be stored in `wirenboard/output/images`.
 
-Requirements:
-* Docker
+Prerequisites:
+* Host system: Debian/Ubuntu or derivatives
+* [Docker](https://docs.docker.com/engine/install/)
 * `apt install qemu-user-static binfmt-support`
 * 15 GB of disk space
