@@ -11,7 +11,7 @@ FIT_CUSTOM_PREFIX='myprefix'
 
 if [ $# -lt 3 ]; then
     echo "Usage: ./build.sh <board> <release> <wb-release> <additional-repos>"
-    echo "Example: ./build.sh 7x bullseye wb-2310"
+    echo "Example: ./build.sh 7x bullseye stable"
     exit 1
 fi
 
