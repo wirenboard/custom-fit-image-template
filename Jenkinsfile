@@ -1,1 +1,1 @@
-buildCustomFit defaultBuildArgs: '7x bullseye wb-2501-xxxxxxxx'
+buildCustomFit defaultBuildArgs: '7x bullseye wb-xxxx'
